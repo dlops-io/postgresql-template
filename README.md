@@ -1,2 +1,1 @@
-# postgresql-template01
-PostgreSQL DB with DBMate
+# PostgreSQL DB with DBMate
